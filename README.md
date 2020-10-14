@@ -2,6 +2,6 @@
 Gaia represents the earth, as the description of the name. It'll be seen as the focus of the page.
 
 ## :package: Contains 
-:sunrise_over_mountains: Contains: Basic parallax page, with a gallery included. <br/>
-:desktop_computer: Presenting: Canada :canada:<br/>
-:brain: Idea: Basic design of a personal project in mind.
+Summary: Basic parallax page, with a gallery included. <br/>
+Presenting: Canada :canada:<br/>
+Idea: Basic design of a personal project in mind.
